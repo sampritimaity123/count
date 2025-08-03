@@ -1,2 +1,1 @@
-# count
-a simple website for increment and decrement
+## live link https://incrementdecrementproject.netlify.app/
